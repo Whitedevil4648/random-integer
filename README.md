@@ -1,1 +1,1 @@
-# random-integer
+# random-integer without import random
